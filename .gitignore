@@ -1,0 +1,3 @@
+# ignore all generated pdf files
+*.pdf
+!pdf/docs/blankpage.pdf
