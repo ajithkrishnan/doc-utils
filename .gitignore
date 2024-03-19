@@ -1,4 +1,11 @@
-# ignore all generated pdf files
+# generated and input pdf files
 *.pdf
+# required as a template
 !pdf/docs/blankpage.pdf
+
+# extracted image files
+*.png
+*.jpg
+*.jpeg
+
 __pycache__
